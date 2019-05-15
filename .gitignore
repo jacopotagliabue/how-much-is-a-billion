@@ -67,3 +67,5 @@ fabric.properties
 
 *.csv
 *.tql
+
+*.xml
