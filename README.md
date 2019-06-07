@@ -2,7 +2,7 @@
 Generating translations between numbers with NLP and Probabilistic Programming
 
 ## Overview
-This repo has been developed together with the [Medium post](https://towardsdatascience.com/the-meaning-of-life-and-other-nlp-stories-4cbe791ce62a) `How Much is a Billion Dollars?`:
+This repo has been developed together with the [Medium post](https://towardsdatascience.com/how-much-is-a-billion-dollars-7705053dd6d9) `How Much is a Billion Dollars?`:
 it contains the Python and WebPPL code needed to re-create the project from scratch. The project is composed by two main parts:
 a _knowledge base_, which is built automatically from [DBPedia](https://wiki.dbpedia.org/), and a _probabilistic model_, which is built 
 leveraging the [compositional nature](https://towardsdatascience.com/fluid-concepts-and-creative-probabilities-785d3c81610a)
